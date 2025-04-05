@@ -1,0 +1,8 @@
+pandas>=1.0.0
+numpy>=1.18.0
+matplotlib>=3.1.0
+seaborn>=0.10.0
+mlxtend>=0.17.0
+python-docx>=0.8.10
+markdown>=3.2.0
+beautifulsoup4>=4.9.0
